@@ -1,5 +1,5 @@
 🚀 Just launched the first version of a real-time Developer MeetUp platform!
-This web application is built with a strong focus on beautiful UI/UX design and essential developer-centric functionality — aiming to empower developers to connect, collaborate, and grow their network.
+This web application is built with a strong focus on beautiful and essential developer-centric functionality — aiming to empower developers to connect, collaborate, and grow their network.
 
 🔧 Key Features Include:
 
